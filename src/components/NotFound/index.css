@@ -1,0 +1,17 @@
+.not-found {
+  margin-left: 20px;
+}
+
+h2 {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.not-found p {
+  margin-bottom: 10px;
+}
+
+a {
+  text-decoration: none;
+  color: #90ee90;
+}
