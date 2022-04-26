@@ -1,0 +1,46 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "author": "Meena",
+      "title": "Pulp Fiction",
+      "body": "Cupcake ipsum dolor sit amet caramels marshmallow. Lollipop candy canes biscuit biscuit apple pie cookie sesame snaps. Cheesecake halvah candy cotton candy lollipop gummi bears jelly-o carrot cake. Soufflé chocolate bar carrot cake wafer cotton candy.",
+      "img_url": "https://www.epicurious.com/images/articlesguides/entertaining/partiesevents/pulp-fiction-dance_612.jpg"
+    },
+    {
+      "id": 2,
+      "author": "Arti",
+      "title": "Inception ",
+      "body": "Cupcake ipsum dolor sit amet candy canes. Chocolate bar cake cupcake soufflé lemon drops dessert lollipop brownie topping. Chocolate bar chocolate cake gingerbread soufflé sweet roll.",
+      "img_url": "https://miro.medium.com/max/800/1*ui6jiqfHMeDOwTlXn172bQ.jpeg"
+    },
+    {
+      "id": 3,
+      "author": "Cristina",
+      "title": "The Shawshank Redemption",
+      "body": "Cupcake ipsum dolor sit amet. Cupcake cookie candy canes tootsie roll shortbread. Donut caramels icing candy croissant topping danish jelly-o marzipan. Candy wafer bonbon chupa chups dragée oat cake pastry pastry tart.",
+      "img_url": "http://theclassicshawshankredemption.weebly.com/uploads/1/1/4/9/11494922/979026697.jpg?491"
+    },
+    {
+      "id": 4,
+      "author": "Chris",
+      "title": "Lord of the Rings",
+      "body": "Cupcake ipsum dolor sit amet candy canes. Cake gummies topping carrot cake shortbread cookie. Sugar plum macaroon sesame snaps topping apple pie muffin cotton candy wafer. Jelly beans fruitcake muffin icing tart jujubes chupa chups.",
+      "img_url": "https://static1.colliderimages.com/wordpress/wp-content/uploads/2019/09/lord-of-the-rings-social.jpg?q=50&fit=contain&w=1500&h=750&dpr=1.5"
+    },
+    {
+      "id": 5,
+      "author": "Bryan",
+      "title": "Good Will Hunting",
+      "body": "Cupcake ipsum dolor sit amet jelly beans sweet roll chocolate cake. Sugar plum sugar plum macaroon candy canes bear claw caramels soufflé jujubes. Gummi bears bonbon jelly beans muffin shortbread gingerbread lemon drops. Jujubes jelly-o bonbon dragée powder pie gingerbread.",
+      "img_url": "https://hbomax-images.warnermediacdn.com/images/GXoTA1gtnCyWbjQEAAACl/tileburnedin?size=1280x720&partner=hbomaxcom&v=e277c9d98a0b0f7d31157ac070266f45&language=en-us&host=art-gallery.api.hbo.com&w=Infinity"
+    },
+    {
+      "id": 6,
+      "author": "Pablo",
+      "title": "Forest Gump",
+      "body": "Cupcake ipsum dolor sit amet bonbon. Topping powder pastry muffin apple pie. Brownie wafer shortbread cookie cookie topping gummi bears marzipan pudding. Bear claw pudding brownie candy canes marzipan.",
+      "img_url": "https://m.media-amazon.com/images/M/MV5BZjkwYzk2ZGUtMDFkMy00MjM3LTgwNTktZmYwMDBmMjczMmJjXkEyXkFqcGdeQWpnYW1i._V1_.jpg"
+    }
+  ]
+}
